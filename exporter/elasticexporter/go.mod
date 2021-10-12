@@ -7,7 +7,7 @@ require (
 	github.com/elastic/go-sysinfo v1.4.0 // indirect
 	github.com/elastic/go-windows v1.0.1 // indirect
 	github.com/stretchr/testify v1.7.0
-	go.elastic.co/apm v1.13.1
+	go.elastic.co/apm v1.14.0
 	go.elastic.co/fastjson v1.1.0
 	go.opentelemetry.io/collector v0.33.1-0.20210827152330-09258f969908
 	go.opentelemetry.io/collector/model v0.33.1-0.20210827152330-09258f969908
