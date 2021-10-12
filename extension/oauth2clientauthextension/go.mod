@@ -12,7 +12,7 @@ require (
 	golang.org/x/oauth2 v0.0.0-20210615190721-d04028783cf1
 	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/tools v0.1.3 // indirect
-	google.golang.org/grpc v1.40.0
+	google.golang.org/grpc v1.41.0
 )
 
 require (
