@@ -3,7 +3,7 @@ module github.com/open-telemetry/opentelemetry-collector-contrib/receiver/awscon
 go 1.17
 
 require (
-	github.com/aws/aws-sdk-go v1.40.56
+	github.com/aws/aws-sdk-go v1.42.35
 	github.com/google/cadvisor v0.41.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/aws/awsutil v0.36.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/aws/containerinsight v0.36.0
@@ -99,7 +99,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.0.1 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.7.0 // indirect
-	golang.org/x/net v0.0.0-20210614182718-04defd469f4e // indirect
+	golang.org/x/net v0.0.0-20211216030914-fe4d6282115f // indirect
 	golang.org/x/oauth2 v0.0.0-20210514164344-f6687ab2804c // indirect
 	golang.org/x/sys v0.0.0-20210816074244-15123e1e1f71 // indirect
 	golang.org/x/term v0.0.0-20210220032956-6a3ed077a48d // indirect
