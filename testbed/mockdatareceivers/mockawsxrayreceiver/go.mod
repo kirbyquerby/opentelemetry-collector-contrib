@@ -6,7 +6,7 @@ require (
 	github.com/gorilla/mux v1.8.0
 	go.opentelemetry.io/collector v0.36.1-0.20211004155959-190f8fbb2b9a
 	go.opentelemetry.io/collector/model v0.36.1-0.20211004155959-190f8fbb2b9a
-	go.uber.org/zap v1.19.1
+	go.uber.org/zap v1.20.0
 
 )
 
