@@ -3,7 +3,7 @@ module github.com/open-telemetry/opentelemetry-collector-contrib/internal/aws/xr
 go 1.17
 
 require (
-	github.com/aws/aws-sdk-go v1.40.56
+	github.com/aws/aws-sdk-go v1.42.47
 	github.com/aws/aws-xray-sdk-go v1.6.0
 	github.com/google/go-cmp v0.5.6 // indirect
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0 // indirect
@@ -24,6 +24,6 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasthttp v1.24.0 // indirect
-	golang.org/x/net v0.0.0-20210614182718-04defd469f4e // indirect
+	golang.org/x/net v0.0.0-20211216030914-fe4d6282115f // indirect
 	golang.org/x/text v0.3.6 // indirect
 )
