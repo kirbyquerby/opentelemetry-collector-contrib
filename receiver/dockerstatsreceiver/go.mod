@@ -3,7 +3,7 @@ module github.com/open-telemetry/opentelemetry-collector-contrib/receiver/docker
 go 1.17
 
 require (
-	github.com/docker/docker v20.10.8+incompatible
+	github.com/docker/docker v20.10.15+incompatible
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/common v0.36.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/docker v0.36.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/interval v0.36.0
@@ -18,7 +18,6 @@ require (
 	github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 // indirect
 	github.com/Microsoft/go-winio v0.4.17 // indirect
 	github.com/cenkalti/backoff/v4 v4.1.1 // indirect
-	github.com/containerd/containerd v1.5.7 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/docker/distribution v2.7.1+incompatible // indirect
 	github.com/docker/go-connections v0.4.0 // indirect
@@ -54,6 +53,7 @@ require (
 	google.golang.org/protobuf v1.27.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gotest.tools/v3 v3.0.3 // indirect
 )
 
 replace (
