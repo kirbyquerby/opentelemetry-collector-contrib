@@ -7,7 +7,7 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/coreinternal v0.36.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/splunk v0.36.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/opencensus v0.36.0
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.2
 	go.opentelemetry.io/collector v0.36.1-0.20211004155959-190f8fbb2b9a
 	go.opentelemetry.io/collector/model v0.36.1-0.20211004155959-190f8fbb2b9a
 	go.uber.org/multierr v1.7.0
@@ -41,7 +41,7 @@ require (
 	google.golang.org/genproto v0.0.0-20210604141403-392c879c8b08 // indirect
 	google.golang.org/grpc v1.41.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
 replace github.com/open-telemetry/opentelemetry-collector-contrib/internal/splunk => ../../internal/splunk
