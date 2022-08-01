@@ -12,7 +12,7 @@ require (
 	go.opentelemetry.io/collector/model v0.36.1-0.20211004155959-190f8fbb2b9a
 	go.uber.org/multierr v1.7.0
 	go.uber.org/zap v1.19.1
-	google.golang.org/protobuf v1.27.1
+	google.golang.org/protobuf v1.28.1
 )
 
 require (
