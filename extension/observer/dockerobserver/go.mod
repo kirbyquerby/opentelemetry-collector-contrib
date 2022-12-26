@@ -5,10 +5,10 @@ go 1.17
 require (
 	github.com/docker/docker v20.10.8+incompatible
 	github.com/docker/go-connections v0.4.0
-	github.com/open-telemetry/opentelemetry-collector-contrib/extension/observer v0.35.0
-	github.com/stretchr/testify v1.7.0
+	github.com/open-telemetry/opentelemetry-collector-contrib/extension/observer v0.68.0
+	github.com/stretchr/testify v1.8.1
 	go.opentelemetry.io/collector v0.36.1-0.20211004155959-190f8fbb2b9a
-	go.uber.org/zap v1.19.1
+	go.uber.org/zap v1.24.0
 
 )
 
@@ -34,8 +34,8 @@ require (
 	go.opentelemetry.io/otel v1.0.1 // indirect
 	go.opentelemetry.io/otel/metric v0.24.0 // indirect
 	go.opentelemetry.io/otel/trace v1.0.1 // indirect
-	go.uber.org/atomic v1.9.0 // indirect
-	go.uber.org/multierr v1.7.0 // indirect
+	go.uber.org/atomic v1.10.0 // indirect
+	go.uber.org/multierr v1.9.0 // indirect
 	golang.org/x/net v0.0.0-20210614182718-04defd469f4e // indirect
 	golang.org/x/sys v0.0.0-20210615035016-665e8c7367d1 // indirect
 	golang.org/x/text v0.3.6 // indirect
@@ -43,6 +43,6 @@ require (
 	google.golang.org/grpc v1.41.0 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 	gotest.tools/v3 v3.0.3 // indirect
 )
